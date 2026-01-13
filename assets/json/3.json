@@ -1,0 +1,40 @@
+[
+     {
+          "product_name": "Product 1",
+          "img": "https://www.sharmispassions.com/wp-content/uploads/2013/04/EggFriedRice4-500x500.jpg",
+          "name": "Egg Fired Rice",
+          "cost": 200,
+          "rating": 5.0,
+          "category": "Rice Items",
+          "buttonType": "Remove Item",
+          "buttontype": "Details",
+          "buttonColor": "red",
+          "buttoncolor": "blue"
+     },
+     {
+          "product_name": "Product 5",
+          "img": "https://img.freepik.com/free-photo/panini-sandwich-with-ham-cheese-tomato-arugula-black-slate-background_123827-28322.jpg?semt=ais_hybrid&w=740&q=80",
+          "name": "Sandwich",
+          "cost": 80,
+          "rating": 3.0,
+          "discount": 40,
+          "category": "Snacks",
+          "buttonType": "Remove Item",
+          "buttontype": "Details",
+          "buttonColor": "red",
+          "buttoncolor": "blue"
+     },
+     {
+          "product_name": "Product 10",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4-A0nGhI5uJEC5LB-4NkME_81aemHiWr6g&s",
+          "name": "ChocoBar",
+          "cost": 30,
+          "rating": 4.0,
+          "discount": 10,
+          "category": "Ice Creams",
+          "buttonType": "Remove Item",
+          "buttontype": "Details",
+          "buttonColor": "red",
+          "buttoncolor": "blue"
+     }
+]

@@ -1,0 +1,202 @@
+[
+   {
+    "product_name": "Product 1",
+    "img": "https://static.toiimg.com/thumb/msid-113810989,width-1280,height-720,resizemode-4/113810989.jpg",
+    "name":"Sambar idly",
+    "cost": 50,
+    "rating":4.0,
+    "discount": 10,
+    "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name": "Product 2",
+    "img": "https://ranveerbrar.com/wp-content/uploads/2021/02/Masala-dosa-scaled.jpg",
+    "name":"Masala Josa",
+    "cost": 80,
+    "rating": 4.0,
+    "discount": 40,
+     "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name": "Product  3",
+    "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
+    "name":"Poori",
+    "cost": 40,
+    "rating": 3.0,
+    "discount": 15,
+     "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name": "Product 4",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMErss-CNyvDQbTKNOhZ12MA_VRwm8mgusg&s",
+    "name":"Mysore bonda",
+    "cost": 50,
+    "rating":4.0,
+    "discount": 10,
+     "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name": "Product 5",
+    "img": "https://i0.wp.com/gomathirecipes.com/wp-content/uploads/2023/09/4968.png?fit=1200%2C675&ssl=1",
+    "name":"Chapathi",
+    "cost": 80,
+    "rating": 4.0,
+    "discount": 40,
+     "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name": "Product  6",
+    "img": "https://d1uz88p17r663j.cloudfront.net/original/ba32df908435796279e3d79f0d5fbdc1_Rava_Upma_-_Twist.jpg",
+    "name":"Upma",
+    "cost": 40,
+    "rating": 3.0,
+    "discount": 15,
+     "category": "Breakfast",
+     "buttonType":"Add to Cart",
+      "buttonColor":"green"
+  },
+   {
+    "product_name":"product 7",
+    "img":"https://t3.ftcdn.net/jpg/15/58/39/44/360_F_1558394464_ojtWGSh2HX4Z4Gu3KPKUALCcfTiTK3dD.jpg",
+    "name": "Chicken Biryani",
+    "cost": 500,
+    "rating": 5,
+    "discount": 10,
+    "category": "Rice",
+    "buttonType": "Add to Cart",
+    "buttonColor": "blue"
+},
+
+    {
+
+    "product_name": "Product 8",
+    "img": "https://i0.wp.com/ahappytreat.com/wp-content/uploads/2021/10/DSC_0018_1.jpg?fit=6000%2C4000&ssl=1",
+    "name":"Veg Biryani",
+    "cost": 200,
+    "rating": 5,
+    "discount": 10,
+    "category": "Rice",
+    "buttonType":"Add to Cart",
+    "buttonColor":"blue"
+  },
+  {
+    "product_name": "Product 9",
+    "img": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/egg-biryani-1-1300x868.jpeg?v=1625193642",
+    "name":"Egg Biryani",
+    "cost": 100,
+    "rating": 4.0,
+    "discount": 20,
+    "category": "Rice",
+      "buttonType":"Add to Cart",
+       "buttonColor":"blue"
+  },
+  {
+    "product_name": "Product 10",
+    "img": "https://i.ytimg.com/vi/7dLE0oraTF0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBw9lgGUqANLQvwbgqtoKK-U1Cuig",
+    "name":"Mutton Biryani",
+    "cost": 250,
+    "rating":4.0,
+    "discount": 10,
+    "category": "Rice",
+     "buttonType":"Add to Cart",
+      "buttonColor":"blue"
+  },
+   {
+    "product_name": "Product 11",
+    "img": "https://currynwok.com/wp-content/uploads/2023/09/Jeera-rice.jpg",
+    "name":"Jeera Rice",
+    "cost": 100,
+    "rating": 4.0,
+    "discount": 40,
+    "category": "Rice",
+     "buttonType":"Add to Cart",
+      "buttonColor":"blue"
+  },
+   {
+    "product_name": "Product  12",
+    "img": "https://i.ytimg.com/vi/UTZ9M5ZXa0w/maxresdefault.jpg",
+    "name":"Prawns Fried Rice",
+    "cost": 400,
+    "rating": 3.0,
+    "discount": 15,
+    "category": "Rice",
+     "buttonType":"Add to Cart",
+      "buttonColor":"blue"
+   },
+  {
+    "product_name": "Product 13",
+    "img": "https://img-cdn.publive.online/fit-in/1200x675/sanjeev-kapoor/media/post_banners/c78dadf87df1a0d0a08bcb3e9f2267997ed90e6d27e8e8fdc924bac6c2ec3694.JPG",
+    "name":"Samosa",
+    "cost": 50,
+    "rating":4.0,
+    "discount": 10,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  },
+   {
+    "product_name": "Product 14",
+    "img": "https://vaya.in/recipes/wp-content/uploads/2018/12/Pav-Bhaji.jpg",
+    "name":"Pav Bhaji",
+    "cost": 80,
+    "rating": 4.0,
+    "discount": 40,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  },
+   {
+    "product_name": "Product  15",
+    "img": "https://lh3.googleusercontent.com/eBmd1NXKXsjKKlWaGSQXW-MRaRtekM0QwKcIg_aZ20_E0dDQrtk_EoPJKp63ue2FapELpKKuHIE-iHd4GtbXM1fqZJztgf3jamG_StHZOA",
+    "name":"Veg Burger",
+    "cost": 40,
+    "rating": 3.0,
+    "discount": 15,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  },
+   {
+    "product_name": "Product 16",
+    "img": "https://i.ytimg.com/vi/GoizL4OOy8w/maxresdefault.jpg",
+    "name":"Chicken roll",
+    "cost": 50,
+    "rating":4.0,
+    "discount": 10,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  },
+   {
+    "product_name": "Product 17",
+    "img": "https://mymorningmocha.com/wp-content/uploads/2023/11/vegetable-spring-rolls-recipe.jpg",
+    "name":"Veg Spring Roll",
+    "cost": 80,
+    "rating": 4.0,
+    "discount": 40,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  },
+   {
+    "product_name": "Product  18",
+    "img": "https://theyummydelights.com/wp-content/uploads/2025/07/shredded-chicken-sandwich-1.jpg",
+    "name":"Sandwich",
+    "cost": 40,
+    "rating": 3.0,
+    "discount": 15,
+     "category": "Snacks",
+     "buttonType":"Add to Cart",
+      "buttonColor":"red"
+  }
+]
